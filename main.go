@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gcommon/lib"
+	"github.com/379763376/gcommon/lib"
 	"log"
 	"time"
 )

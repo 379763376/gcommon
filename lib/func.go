@@ -7,7 +7,6 @@ import (
 	"encoding/hex"
 	"flag"
 	"fmt"
-	dlog "gcommon/log"
 	"io/ioutil"
 	"log"
 	"math/rand"

@@ -3,7 +3,7 @@ package lib
 import (
 	"bytes"
 	"database/sql"
-	dlog "gcommon/log"
+	dlog "log"
 	"github.com/jinzhu/gorm"
 	"github.com/spf13/viper"
 	"io/ioutil"

@@ -3,7 +3,7 @@ package test
 import (
 	"bytes"
 	"fmt"
-	"gcommon/lib"
+	"github.com/379763376/gcommon/lib"
 	"io/ioutil"
 	"log"
 	"net/http"

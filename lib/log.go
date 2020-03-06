@@ -2,7 +2,7 @@ package lib
 
 import (
 	"fmt"
-	dlog "gcommon/log"
+	dlog "log"
 	"strings"
 )
 

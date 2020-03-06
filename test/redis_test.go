@@ -2,7 +2,7 @@ package test
 
 import (
 	"fmt"
-	"gcommon/lib"
+	"github.com/379763376/gcommon/lib"
 	"github.com/garyburd/redigo/redis"
 	"testing"
 )

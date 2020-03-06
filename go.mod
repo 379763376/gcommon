@@ -1,4 +1,4 @@
-module gcommon
+module github.com/379763376/gcommon
 
 go 1.13
 

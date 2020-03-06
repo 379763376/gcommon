@@ -1,8 +1,8 @@
 package test
 
 import (
-	"gcommon/lib"
-	"gcommon/log"
+	"github.com/379763376/gcommon/lib"
+	"github.com/379763376/gcommon/log"
 	"testing"
 	"time"
 )
